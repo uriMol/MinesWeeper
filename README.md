@@ -9,4 +9,8 @@ Minesweeper on wikipedia - https://en.wikipedia.org/wiki/Minesweeper_(video_game
 
 
 Made by uMolcho
-*Not finished - should add starting page
+
+# My first git repository
+This is a MinesWeeper puzzle game I made for fun. It's the first time I've done such a thing and it was made before I knew how to handle git so I uploaded it manually.
+
+You'll probably see that it is not perfectly planned and organized but it's pretty nice for a first fun after school project.
