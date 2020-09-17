@@ -7,6 +7,7 @@ neighboring mines in each field.
 
 Minesweeper on wikipedia - https://en.wikipedia.org/wiki/Minesweeper_(video_game)
 
+** Not done - I should still make a landing page for choosing game level, game level is currently set manually in the code by an enum.
 
 Made by uMolcho
 
